@@ -547,5 +547,9 @@ footer a {
         left: 20em;
         top: -7em;
     }
+    
+    .attribution {
+        position: absolute;
+        bottom: 0;
 
 }
